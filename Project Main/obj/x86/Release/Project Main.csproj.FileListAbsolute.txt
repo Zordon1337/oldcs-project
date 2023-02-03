@@ -1,0 +1,10 @@
+C:\Users\alexb\source\repos\Project Main\Project Main\obj\x86\Release\Project Main.csproj.AssemblyReference.cache
+C:\Users\alexb\source\repos\Project Main\Project Main\obj\x86\Release\Project Main.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\Project Main\Project Main\bin\x86\Release\Project Main.exe.config
+C:\Users\alexb\source\repos\Project Main\Project Main\bin\x86\Release\Project Main.exe
+C:\Users\alexb\source\repos\Project Main\Project Main\bin\x86\Release\Project Main.pdb
+C:\Users\alexb\source\repos\Project Main\Project Main\bin\x86\Release\Memory.dll
+C:\Users\alexb\source\repos\Project Main\Project Main\bin\x86\Release\Memory.xml
+C:\Users\alexb\source\repos\Project Main\Project Main\obj\x86\Release\Project Main.csproj.CopyComplete
+C:\Users\alexb\source\repos\Project Main\Project Main\obj\x86\Release\Project Main.exe
+C:\Users\alexb\source\repos\Project Main\Project Main\obj\x86\Release\Project Main.pdb

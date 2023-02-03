@@ -1,0 +1,10 @@
+C:\Users\alexb\source\repos\Project Main\Project Main\obj\x86\Debug\oldcs.csproj.AssemblyReference.cache
+C:\Users\alexb\source\repos\Project Main\Project Main\obj\x86\Debug\oldcs.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\Project Main\Project Main\bin\x86\Debug\oldcs.exe.config
+C:\Users\alexb\source\repos\Project Main\Project Main\bin\x86\Debug\oldcs.exe
+C:\Users\alexb\source\repos\Project Main\Project Main\bin\x86\Debug\oldcs.pdb
+C:\Users\alexb\source\repos\Project Main\Project Main\bin\x86\Debug\Memory.dll
+C:\Users\alexb\source\repos\Project Main\Project Main\bin\x86\Debug\Memory.xml
+C:\Users\alexb\source\repos\Project Main\Project Main\obj\x86\Debug\oldcs.csproj.CopyComplete
+C:\Users\alexb\source\repos\Project Main\Project Main\obj\x86\Debug\oldcs.exe
+C:\Users\alexb\source\repos\Project Main\Project Main\obj\x86\Debug\oldcs.pdb
