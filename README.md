@@ -6,3 +6,4 @@ you can get vac banned, i know that's old version and there is probably no chanc
 
 
 later i will make this readme
+(remember later means never :trollface:)
